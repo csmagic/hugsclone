@@ -1,0 +1,57 @@
+______________________________________________________________________________
+This file contains pointers to online resources for Hugs, Haskell and
+Functional Programming on the Internet and World-Wide Web.
+______________________________________________________________________________
+HUGS:
+
+   You can obtain a copy of Hugs 1.3 on the World Wide Web:
+
+      http://www.cs.nott.ac.uk/Department/Staff/mpj/hugs.html
+
+   or by anonymous ftp from:
+
+      ftp://ftp.cs.nott.ac.uk/pub/haskell/hugs
+      ftp://ftp.cs.nott.ac.uk/pub/nott-fp/hugs
+
+   There is also a home page for Hugs at Yale:
+
+      http://haskell.cs.yale.edu/hugs/
+
+   There are also mailing lists for Hugs users and bug-reports; to
+   subscribe, send email to:
+       hugs-users-request@cs.yale.edu
+       hugs-bugs-request@cs.yale.edu
+
+   Please send bug reports to hugs-bugs@cs.yale.edu, and other general
+   messages to hugs-users@cs.yale.edu.
+
+______________________________________________________________________________
+HASKELL:
+
+   An online version of the report for Haskell 1.3 is available from:
+
+      http://haskell.cs.yale.edu/haskell-report/haskell-report.html
+
+   Archives for Haskell are maintained at various sites around the world:
+
+      Chalmers, Sweden        ftp://ftp.cs.chalmers.se/pub/haskell
+      Glasgow, Scotland       ftp://ftp.dcs.glasgow.ac.uk/pub/haskell
+      Nottingham, England     ftp://ftp.cs.nott.ac.uk/pub/haskell
+      Yale, USA               ftp://haskell.cs.yale.edu/pub/haskell
+
+   There is a common mailing list for technical discussion of Haskell;
+   details are available at the sites listed above.
+
+______________________________________________________________________________
+FUNCTIONAL PROGRAMMING:
+
+   The usenet newsgroup comp.lang.functional provides a forum for general
+   discussion about functional programming languages.  A list of frequently
+   asked questions (FAQs), and their answers, is available from:
+
+      http://www.cs.nott.ac.uk/Department/Staff/mpj/faq.html
+
+   The FAQ list contains many pointers to other functional programming
+   resources around the world.
+
+______________________________________________________________________________

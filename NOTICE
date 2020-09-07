@@ -1,0 +1,53 @@
+-------------------------------------------------------------------------------
+--      ___    ___   ___    ___   __________   __________                    --
+--     /  /   /  /  /  /   /  /  /  _______/  /  _______/ The Haskell User's --
+--    /  /___/  /  /  /   /  /  /  / _____   /  /______     Gofer System     --
+--   /  ____   /  /  /   /  /  /  / /_   /  /______   /                      --
+--  /  /   /  /  /  /___/  /  /  /___/  /  _______/  /      Version 1.3      --
+-- /__/   /__/  /_________/  /_________/  /_________/       August 1996      --
+--                                                                           --
+--    Copyright (c) Mark P Jones, The University of Nottingham, 1994-1996.   --
+--									     --
+--         CONDITIONS OF USE, DUPLICATION AND DISTRIBUTION (*)		     --
+--									     --
+--  Permission to use, copy, modify, and distribute Hugs for any personal    --
+--  or educational use without fee is hereby granted, provided that:	     --
+--									     --
+--   a) This copyright notice is retained in both source code and	     --
+--      supporting documentation.					     --
+--									     --
+--   b) Modified versions of this software are redistributed only if	     --
+--      accompanied by a complete history (date, author, description) of     --
+--      modifications made; the intention here is to give appropriate	     --
+--      credit to those involved, while simultaneously ensuring that any     --
+--      recipient can determine the origin of the software.		     --
+--									     --
+--   c) The same conditions are also applied to any software system	     --
+--      derived either in full or in part from Hugs.			     --
+--									     --
+--  No part of Hugs may be distributed as a part or accompaniment of any     --
+--  commercial package or product without the explicit written permission    --
+--  of the author and copyright holder.  The distribution of commercial	     --
+--  products which require or make use of Hugs will normally be permitted    --
+--  if the Hugs distribution is supplied separately to and offered at cost   --
+--  price to the purchaser of the commercial product.			     --
+--									     --
+--  In specifying these conditions, our intention is to permit widespread    --
+--  use of Hugs while, at the same time, protecting the interests, rights    --
+--  and efforts of all those involved.  Please contact the author and	     --
+--  copyright holder to arrange alternative terms and conditions if your     --
+--  intended use of Hugs is not permitted by the terms and conditions in     --
+--  this notice.							     --
+--									     --
+--  While Hugs has much in common with Gofer (from which it was originally   --
+--  derived), there are also some significant differences between the two    --
+--  systems.  For example, Hugs conforms closely to the Haskell standard     --
+--  while Gofer was intended as a more experimental system.  As a result,    --
+--  any and all rights previously conferred for the use, duplication, and    --
+--  distribution of Gofer do NOT automatically carry over to Hugs.           --
+--									     --
+--  NOTICE: Hugs is provided "as is" without express or implied warranty.    --
+--									     --
+--  (*) For the purposes of this document, the word "Hugs" refers both to    --
+--      the software and its accompanying documentation.		     --
+-------------------------------------------------------------------------------

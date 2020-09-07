@@ -1,0 +1,22 @@
+The following procedure is suggested for installation of Hugs on a Unix
+machine.  (Precompiled binaries are provided for common PC platforms,
+although similar installation procedures can be used for these machines
+if you have a suitable C compiler.)
+
+ 0) Compile the interpreter by editing src/Makefile, by selecting the
+    desired operating system/compiler configuration in src/prelude.h
+    and by running make.  Not all of the combinations listed in the
+    prelude.h file have been tested recently, so please report any
+    problems and updates to me.
+
+ 1) Choose a directory for the Hugs files to go in, say /usr/local/Hugs
+    and copy the lib and libhugs directories, together with the executable
+    from step (1), into this directory.  Ensure that these files have
+    appropriate permission settings.  If you like, you can copy the
+    demos to this subdirectory also.
+
+ 2) Edit the script file `Hugs' to point to the directory chosen in
+    step (1) and to set any preferred command line arguments.  Copy
+    this script file into a suitable directory; your own bin directory,
+    for example, or a system wide directory like /usr/local/bin.
+

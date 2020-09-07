@@ -1,0 +1,30 @@
+______________________________________________________________________________
+      ___    ___   ___    ___   __________   __________
+     /  /   /  /  /  /   /  /  /  _______/  /  _______/   The Haskell User's
+    /  /___/  /  /  /   /  /  /  / _____   /  /______       Gofer System
+   /  ____   /  /  /   /  /  /  / /_   /  /______   /
+  /  /   /  /  /  /___/  /  /  /___/  /  _______/  /        Version 1.3
+ /__/   /__/  /_________/  /_________/  /_________/         August 1996
+
+    Copyright (c) Mark P Jones, The University of Nottingham, 1994-1996.
+______________________________________________________________________________
+This is the Readme file for Hugs 1.3, the Haskell User's Gofer System.
+
+Hugs 1.3 is an interpreter that provides an almost complete implementation
+of Haskell 1.3; the only feature that is not supported is the module system.
+
+Already, there are ambitious plans for the future, with collaboration and
+joint releases from the functional programming groups at Nottingham and
+Yale.  For example, in the near future, we expect to release a system
+combining the best of Hugs 1.3 and the recent Yale release of Hugs 1.01.
+This will provide full support for Haskell 1.3, modules, and libraries for
+both X window and Win32 programming.  However, we also intend to maintain
+the current release as a relatively small and stable system that will be
+suitable for teaching and research, even on fairly small machines.
+
+Your feedback, comments, suggestions and bug reports are most welcome!
+______________________________________________________________________________
+Mark P. Jones                                                mpj@cs.nott.ac.uk
+http://www.cs.nott.ac.uk/Department/Staff/mpj/index.html
+Department of Computer Science, University of Nottingham, England NG7 2RD
+______________________________________________________________________________
